@@ -9,7 +9,7 @@ O projeto foi desenvolvido utilizando:
 - Tailwind CSS para estilização via CDN
 - LocalStorage para persistência dos dados
 
-A estrutura do código foi organizada em uma classe `TodoApp` que gerencia todas as operações através dos seguintes métodos principais:
+A estrutura do código foi organizada em uma classe `TodoApp` que gerencia todas as operações através das seguintes funções:
 
 - `addTodo()`: Adiciona novas tarefas
 - `deleteTodo()`: Remove tarefas
